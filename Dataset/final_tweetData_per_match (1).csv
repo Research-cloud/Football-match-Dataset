@@ -1,0 +1,381 @@
+Date,Home_Team,Away_Team,Home_Pos,Away_Pos,Home_Neg,Away_Neg,Result
+2021-08-15,Tottenham Hotspur,Manchester City,471.0,99.0,274.0,56.0,W
+2021-08-21,Manchester City,Norwich City,96.0,91.0,79.0,32.0,W
+2021-08-28,Manchester City,Arsenal,224.0,363.0,270.0,209.0,W
+2021-09-11,Leicester City,Manchester City,74.0,66.0,19.0,37.0,L
+2021-09-18,Manchester City,Southampton,110.0,80.0,192.0,32.0,D
+2021-09-25,Chelsea,Manchester City,286.0,86.0,84.0,37.0,L
+2021-10-03,Liverpool,Manchester City,528.0,81.0,172.0,30.0,D
+2021-10-16,Manchester City,Burnley,90.0,9.0,60.0,0.0,W
+2021-10-23,Brighton and Hove Albion,Manchester City,72.0,86.0,18.0,30.0,L
+2021-10-30,Manchester City,Crystal Palace,78.0,147.0,48.0,15.0,L
+2021-11-06,Manchester United,Manchester City,440.0,98.0,339.0,45.0,L
+2021-11-21,Manchester City,Everton,78.0,52.0,46.0,22.0,W
+2021-11-28,Manchester City,West Ham United,65.0,47.0,30.0,12.0,W
+2021-12-01,Aston Villa,Manchester City,227.0,94.0,138.0,36.0,L
+2021-12-04,Watford,Manchester City,78.0,130.0,27.0,32.0,L
+2021-12-11,Manchester City,Wolverhampton Wanderers,88.0,0.0,21.0,0.0,W
+2021-12-14,Manchester City,Leeds United,77.0,215.0,43.0,329.0,W
+2021-12-19,Newcastle United,Manchester City,302.0,53.0,514.0,29.0,L
+2021-12-26,Manchester City,Leicester City,79.0,70.0,14.0,28.0,W
+2021-12-29,Brentford,Manchester City,23.0,89.0,15.0,29.0,L
+2022-01-01,Arsenal,Manchester City,441.0,133.0,104.0,82.0,L
+2022-01-15,Manchester City,Chelsea,93.0,360.0,31.0,133.0,W
+2022-01-22,Southampton,Manchester City,95.0,95.0,32.0,31.0,D
+2022-02-09,Manchester City,Brentford,66.0,33.0,32.0,3.0,W
+2022-02-12,Norwich City,Manchester City,118.0,97.0,44.0,28.0,L
+2022-02-19,Manchester City,Tottenham Hotspur,110.0,276.0,51.0,349.0,L
+2022-02-26,Everton,Manchester City,74.0,60.0,51.0,27.0,L
+2022-03-06,Manchester City,Manchester United,116.0,425.0,49.0,246.0,W
+2022-03-14,Crystal Palace,Manchester City,54.0,62.0,21.0,23.0,D
+2022-04-02,Burnley,Manchester City,5.0,43.0,0.0,33.0,L
+2022-04-10,Manchester City,Liverpool,75.0,483.0,41.0,178.0,D
+2022-04-20,Manchester City,Brighton and Hove Albion,84.0,60.0,80.0,22.0,W
+2022-04-23,Manchester City,Watford,121.0,20.0,35.0,24.0,W
+2022-04-30,Leeds United,Manchester City,195.0,90.0,155.0,38.0,L
+2022-05-08,Manchester City,Newcastle United,97.0,466.0,110.0,277.0,W
+2022-05-11,Wolverhampton Wanderers,Manchester City,1.0,326.0,0.0,173.0,L
+2022-05-15,West Ham United,Manchester City,51.0,271.0,21.0,114.0,D
+2022-05-22,Manchester City,Aston Villa,228.0,206.0,51.0,133.0,W
+2021-08-14,Norwich City,Liverpool,255.0,601.0,106.0,201.0,L
+2021-08-21,Liverpool,Burnley,426.0,12.0,261.0,1.0,W
+2021-08-28,Liverpool,Chelsea,359.0,543.0,409.0,143.0,D
+2021-09-12,Leeds United,Liverpool,242.0,337.0,109.0,218.0,L
+2021-09-18,Liverpool,Crystal Palace,500.0,71.0,207.0,24.0,W
+2021-09-25,Brentford,Liverpool,28.0,339.0,3.0,214.0,D
+2021-10-16,Watford,Liverpool,28.0,282.0,6.0,147.0,L
+2021-10-24,Manchester United,Liverpool,401.0,455.0,279.0,214.0,L
+2021-10-30,Liverpool,Brighton and Hove Albion,507.0,54.0,187.0,28.0,D
+2021-11-07,West Ham United,Liverpool,70.0,377.0,69.0,199.0,W
+2021-11-20,Liverpool,Arsenal,343.0,285.0,137.0,76.0,W
+2021-11-27,Liverpool,Southampton,536.0,54.0,133.0,45.0,W
+2021-12-01,Everton,Liverpool,68.0,418.0,150.0,226.0,L
+2021-12-04,Wolverhampton Wanderers,Liverpool,0.0,653.0,0.0,171.0,L
+2021-12-11,Liverpool,Aston Villa,465.0,164.0,128.0,61.0,W
+2021-12-16,Liverpool,Newcastle United,329.0,377.0,158.0,376.0,W
+2021-12-19,Tottenham Hotspur,Liverpool,262.0,450.0,137.0,213.0,D
+2021-12-28,Leicester City,Liverpool,165.0,283.0,350.0,220.0,W
+2022-01-02,Chelsea,Liverpool,360.0,458.0,474.0,354.0,D
+2022-01-16,Liverpool,Brentford,345.0,21.0,411.0,5.0,W
+2022-01-23,Crystal Palace,Liverpool,58.0,504.0,11.0,196.0,L
+2022-02-10,Liverpool,Leicester City,464.0,36.0,207.0,61.0,W
+2022-02-13,Burnley,Liverpool,16.0,530.0,2.0,194.0,L
+2022-02-19,Liverpool,Norwich City,534.0,88.0,181.0,82.0,W
+2022-02-23,Liverpool,Leeds United,414.0,235.0,157.0,300.0,W
+2022-03-05,Liverpool,West Ham United,488.0,37.0,215.0,40.0,W
+2022-03-12,Brighton and Hove Albion,Liverpool,48.0,445.0,17.0,246.0,L
+2022-03-16,Arsenal,Liverpool,593.0,457.0,202.0,241.0,L
+2022-04-02,Liverpool,Watford,432.0,24.0,159.0,17.0,W
+2022-04-19,Liverpool,Manchester United,551.0,373.0,225.0,319.0,W
+2022-04-24,Liverpool,Everton,403.0,67.0,213.0,85.0,W
+2022-04-30,Newcastle United,Liverpool,639.0,683.0,212.0,148.0,L
+2022-05-07,Liverpool,Tottenham Hotspur,438.0,259.0,199.0,125.0,D
+2022-05-10,Aston Villa,Liverpool,220.0,321.0,88.0,358.0,L
+2022-05-17,Southampton,Liverpool,108.0,515.0,100.0,259.0,L
+2022-05-22,Liverpool,Wolverhampton Wanderers,578.0,1.0,205.0,0.0,W
+2021-08-14,Chelsea,Crystal Palace,537.0,160.0,134.0,55.0,W
+2021-08-22,Arsenal,Chelsea,726.0,287.0,181.0,108.0,L
+2021-09-11,Chelsea,Aston Villa,212.0,190.0,99.0,61.0,W
+2021-09-19,Tottenham Hotspur,Chelsea,339.0,187.0,241.0,58.0,L
+2021-10-02,Chelsea,Southampton,186.0,48.0,150.0,51.0,W
+2021-10-16,Brentford,Chelsea,16.0,160.0,4.0,89.0,L
+2021-10-23,Chelsea,Norwich City,232.0,82.0,104.0,66.0,W
+2021-10-30,Newcastle United,Chelsea,395.0,212.0,319.0,82.0,L
+2021-11-06,Chelsea,Burnley,269.0,6.0,83.0,0.0,D
+2021-11-20,Leicester City,Chelsea,47.0,226.0,26.0,64.0,L
+2021-11-28,Chelsea,Manchester United,222.0,325.0,70.0,254.0,D
+2021-12-01,Watford,Chelsea,40.0,443.0,57.0,181.0,L
+2021-12-04,West Ham United,Chelsea,32.0,266.0,46.0,104.0,W
+2021-12-11,Chelsea,Leeds United,140.0,173.0,163.0,187.0,W
+2021-12-16,Chelsea,Everton,197.0,62.0,84.0,145.0,D
+2021-12-19,Wolverhampton Wanderers,Chelsea,0.0,136.0,0.0,251.0,D
+2021-12-26,Aston Villa,Chelsea,183.0,193.0,55.0,42.0,L
+2021-12-29,Chelsea,Brighton and Hove Albion,271.0,92.0,182.0,39.0,D
+2022-01-18,Brighton and Hove Albion,Chelsea,74.0,440.0,111.0,276.0,D
+2022-01-23,Chelsea,Tottenham Hotspur,199.0,489.0,129.0,197.0,W
+2022-02-19,Crystal Palace,Chelsea,49.0,189.0,24.0,70.0,L
+2022-03-05,Burnley,Chelsea,3.0,357.0,1.0,312.0,L
+2022-03-10,Norwich City,Chelsea,48.0,177.0,33.0,164.0,L
+2022-03-13,Chelsea,Newcastle United,292.0,498.0,550.0,381.0,W
+2022-04-02,Chelsea,Brentford,228.0,23.0,171.0,7.0,L
+2022-04-09,Southampton,Chelsea,56.0,182.0,21.0,307.0,L
+2022-04-20,Chelsea,Arsenal,236.0,193.0,124.0,183.0,L
+2022-04-24,Chelsea,West Ham United,254.0,36.0,305.0,29.0,W
+2022-04-28,Manchester United,Chelsea,349.0,187.0,236.0,171.0,D
+2022-05-01,Everton,Chelsea,78.0,304.0,107.0,157.0,W
+2022-05-07,Chelsea,Wolverhampton Wanderers,332.0,1.0,216.0,1.0,D
+2022-05-11,Leeds United,Chelsea,233.0,257.0,430.0,179.0,L
+2022-05-19,Chelsea,Leicester City,274.0,132.0,153.0,26.0,D
+2022-05-22,Chelsea,Watford,389.0,27.0,172.0,21.0,W
+2021-08-22,Wolverhampton Wanderers,Tottenham Hotspur,5.0,323.0,0.0,247.0,L
+2021-08-29,Tottenham Hotspur,Watford,500.0,95.0,246.0,53.0,W
+2021-09-11,Crystal Palace,Tottenham Hotspur,74.0,425.0,82.0,140.0,W
+2021-09-26,Arsenal,Tottenham Hotspur,315.0,337.0,107.0,221.0,W
+2021-10-03,Tottenham Hotspur,Aston Villa,322.0,166.0,170.0,68.0,W
+2021-10-17,Newcastle United,Tottenham Hotspur,494.0,253.0,448.0,215.0,L
+2021-10-24,West Ham United,Tottenham Hotspur,72.0,329.0,17.0,199.0,W
+2021-10-30,Tottenham Hotspur,Manchester United,352.0,263.0,218.0,530.0,L
+2021-11-07,Everton,Tottenham Hotspur,78.0,540.0,37.0,202.0,D
+2021-11-21,Tottenham Hotspur,Leeds United,386.0,185.0,165.0,122.0,W
+2021-12-02,Tottenham Hotspur,Brentford,246.0,26.0,156.0,4.0,W
+2021-12-05,Tottenham Hotspur,Norwich City,507.0,80.0,120.0,41.0,W
+2021-12-26,Tottenham Hotspur,Crystal Palace,685.0,104.0,173.0,38.0,W
+2021-12-28,Southampton,Tottenham Hotspur,420.0,688.0,322.0,168.0,D
+2022-01-01,Watford,Tottenham Hotspur,64.0,620.0,74.0,162.0,L
+2022-01-19,Leicester City,Tottenham Hotspur,43.0,388.0,35.0,311.0,L
+2022-02-09,Tottenham Hotspur,Southampton,536.0,99.0,107.0,71.0,L
+2022-02-13,Tottenham Hotspur,Wolverhampton Wanderers,340.0,1.0,161.0,1.0,L
+2022-02-23,Burnley,Tottenham Hotspur,14.0,492.0,1.0,201.0,W
+2022-02-26,Leeds United,Tottenham Hotspur,216.0,282.0,468.0,380.0,L
+2022-03-07,Tottenham Hotspur,Everton,226.0,51.0,133.0,55.0,W
+2022-03-12,Manchester United,Tottenham Hotspur,247.0,254.0,290.0,162.0,W
+2022-03-16,Brighton and Hove Albion,Tottenham Hotspur,39.0,167.0,31.0,116.0,L
+2022-03-20,Tottenham Hotspur,West Ham United,332.0,165.0,127.0,41.0,W
+2022-04-03,Tottenham Hotspur,Newcastle United,450.0,340.0,131.0,208.0,W
+2022-04-09,Aston Villa,Tottenham Hotspur,137.0,314.0,77.0,90.0,L
+2022-04-16,Tottenham Hotspur,Brighton and Hove Albion,471.0,41.0,159.0,22.0,L
+2022-04-23,Brentford,Tottenham Hotspur,27.0,372.0,6.0,147.0,D
+2022-05-01,Tottenham Hotspur,Leicester City,283.0,67.0,123.0,29.0,W
+2022-05-12,Tottenham Hotspur,Arsenal,399.0,485.0,217.0,148.0,W
+2022-05-15,Tottenham Hotspur,Burnley,637.0,7.0,234.0,3.0,W
+2022-05-22,Norwich City,Tottenham Hotspur,123.0,410.0,68.0,245.0,L
+2021-08-13,Brentford,Arsenal,60.0,316.0,5.0,278.0,W
+2021-09-11,Arsenal,Norwich City,354.0,80.0,127.0,31.0,W
+2021-09-18,Burnley,Arsenal,15.0,216.0,5.0,96.0,L
+2021-10-02,Brighton and Hove Albion,Arsenal,76.0,301.0,48.0,73.0,D
+2021-10-18,Arsenal,Crystal Palace,193.0,51.0,65.0,14.0,D
+2021-10-22,Arsenal,Aston Villa,121.0,100.0,111.0,66.0,W
+2021-10-30,Leicester City,Arsenal,50.0,284.0,15.0,89.0,L
+2021-11-07,Arsenal,Watford,335.0,29.0,96.0,11.0,W
+2021-11-27,Arsenal,Newcastle United,204.0,404.0,61.0,254.0,W
+2021-12-02,Manchester United,Arsenal,291.0,219.0,205.0,88.0,W
+2021-12-06,Everton,Arsenal,79.0,324.0,153.0,145.0,W
+2021-12-11,Arsenal,Southampton,220.0,48.0,134.0,19.0,W
+2021-12-15,Arsenal,West Ham United,258.0,35.0,277.0,30.0,W
+2021-12-18,Leeds United,Arsenal,183.0,503.0,287.0,126.0,L
+2021-12-26,Norwich City,Arsenal,81.0,302.0,72.0,53.0,L
+2022-01-23,Arsenal,Burnley,348.0,8.0,334.0,6.0,D
+2022-02-10,Wolverhampton Wanderers,Arsenal,0.0,239.0,0.0,127.0,L
+2022-02-19,Arsenal,Brentford,192.0,17.0,99.0,7.0,W
+2022-02-24,Arsenal,Wolverhampton Wanderers,287.0,2.0,98.0,0.0,W
+2022-03-06,Watford,Arsenal,19.0,252.0,17.0,52.0,L
+2022-03-13,Arsenal,Leicester City,330.0,71.0,91.0,33.0,W
+2022-03-19,Aston Villa,Arsenal,157.0,441.0,75.0,219.0,L
+2022-04-04,Crystal Palace,Arsenal,56.0,336.0,18.0,125.0,W
+2022-04-09,Arsenal,Brighton and Hove Albion,336.0,56.0,102.0,32.0,L
+2022-04-16,Southampton,Arsenal,63.0,239.0,36.0,109.0,W
+2022-04-23,Arsenal,Manchester United,430.0,312.0,134.0,339.0,W
+2022-05-01,West Ham United,Arsenal,36.0,438.0,37.0,93.0,L
+2022-05-08,Arsenal,Leeds United,572.0,279.0,190.0,206.0,W
+2022-05-16,Newcastle United,Arsenal,426.0,360.0,389.0,238.0,W
+2022-05-22,Arsenal,Everton,298.0,441.0,158.0,404.0,W
+2021-08-14,Manchester United,Leeds United,403.0,478.0,236.0,216.0,W
+2021-08-22,Southampton,Manchester United,164.0,409.0,152.0,205.0,D
+2021-08-29,Wolverhampton Wanderers,Manchester United,1.0,425.0,1.0,201.0,L
+2021-09-11,Manchester United,Newcastle United,428.0,263.0,149.0,432.0,W
+2021-09-19,West Ham United,Manchester United,71.0,372.0,12.0,255.0,L
+2021-09-25,Manchester United,Aston Villa,417.0,202.0,239.0,102.0,L
+2021-10-02,Manchester United,Everton,401.0,75.0,315.0,22.0,D
+2021-10-16,Leicester City,Manchester United,55.0,464.0,17.0,231.0,W
+2021-11-20,Watford,Manchester United,35.0,314.0,27.0,471.0,W
+2021-12-05,Manchester United,Crystal Palace,453.0,49.0,268.0,6.0,W
+2021-12-11,Norwich City,Manchester United,56.0,318.0,34.0,373.0,L
+2021-12-27,Newcastle United,Manchester United,441.0,459.0,129.0,183.0,D
+2021-12-30,Manchester United,Burnley,176.0,8.0,638.0,2.0,W
+2022-01-03,Manchester United,Wolverhampton Wanderers,285.0,0.0,251.0,0.0,L
+2022-01-15,Aston Villa,Manchester United,496.0,263.0,161.0,313.0,D
+2022-01-19,Brentford,Manchester United,49.0,297.0,9.0,247.0,L
+2022-01-22,Manchester United,West Ham United,248.0,48.0,384.0,41.0,W
+2022-02-08,Burnley,Manchester United,6.0,308.0,1.0,267.0,D
+2022-02-12,Manchester United,Southampton,317.0,243.0,459.0,85.0,D
+2022-02-15,Manchester United,Brighton and Hove Albion,316.0,129.0,409.0,36.0,W
+2022-02-20,Leeds United,Manchester United,278.0,424.0,340.0,347.0,L
+2022-02-26,Manchester United,Watford,423.0,32.0,211.0,55.0,D
+2022-04-02,Manchester United,Leicester City,453.0,31.0,204.0,28.0,D
+2022-04-09,Everton,Manchester United,94.0,246.0,265.0,245.0,W
+2022-04-16,Manchester United,Norwich City,341.0,69.0,314.0,69.0,W
+2022-05-02,Manchester United,Brentford,287.0,8.0,262.0,1.0,W
+2022-05-07,Brighton and Hove Albion,Manchester United,63.0,263.0,24.0,323.0,W
+2022-05-22,Crystal Palace,Manchester United,65.0,386.0,128.0,267.0,W
+2021-08-15,Newcastle United,West Ham United,581.0,63.0,315.0,66.0,L
+2021-08-23,West Ham United,Leicester City,38.0,52.0,29.0,25.0,W
+2021-08-28,West Ham United,Crystal Palace,107.0,124.0,65.0,41.0,D
+2021-09-11,Southampton,West Ham United,67.0,80.0,37.0,12.0,D
+2021-09-25,Leeds United,West Ham United,244.0,53.0,137.0,41.0,L
+2021-10-03,West Ham United,Brentford,85.0,20.0,17.0,5.0,L
+2021-10-17,Everton,West Ham United,82.0,36.0,38.0,19.0,L
+2021-10-31,Aston Villa,West Ham United,111.0,64.0,152.0,26.0,L
+2021-11-20,Wolverhampton Wanderers,West Ham United,0.0,70.0,0.0,43.0,W
+2021-12-01,West Ham United,Brighton and Hove Albion,46.0,71.0,22.0,66.0,D
+2021-12-12,Burnley,West Ham United,5.0,52.0,4.0,11.0,D
+2021-12-26,West Ham United,Southampton,35.0,62.0,10.0,18.0,L
+2021-12-28,Watford,West Ham United,25.0,51.0,17.0,160.0,L
+2022-01-01,Crystal Palace,West Ham United,74.0,38.0,30.0,22.0,L
+2022-01-12,West Ham United,Norwich City,66.0,90.0,36.0,171.0,W
+2022-01-16,West Ham United,Leeds United,53.0,266.0,23.0,308.0,L
+2022-02-08,West Ham United,Watford,36.0,74.0,56.0,18.0,W
+2022-02-13,Leicester City,West Ham United,73.0,27.0,121.0,78.0,D
+2022-02-19,West Ham United,Newcastle United,31.0,477.0,22.0,273.0,D
+2022-02-27,West Ham United,Wolverhampton Wanderers,54.0,6.0,54.0,0.0,W
+2022-03-13,West Ham United,Aston Villa,54.0,275.0,30.0,105.0,W
+2022-04-03,West Ham United,Everton,47.0,53.0,11.0,48.0,W
+2022-04-10,Brentford,West Ham United,21.0,54.0,4.0,56.0,W
+2022-04-17,West Ham United,Burnley,154.0,47.0,61.0,187.0,D
+2022-05-08,Norwich City,West Ham United,56.0,76.0,55.0,105.0,L
+2022-05-22,Brighton and Hove Albion,West Ham United,96.0,32.0,41.0,9.0,W
+2021-08-14,Leicester City,Wolverhampton Wanderers,238.0,2.0,63.0,0.0,W
+2021-08-28,Norwich City,Leicester City,105.0,85.0,57.0,48.0,L
+2021-09-19,Brighton and Hove Albion,Leicester City,72.0,71.0,24.0,47.0,W
+2021-09-25,Leicester City,Burnley,54.0,3.0,13.0,0.0,D
+2021-10-03,Crystal Palace,Leicester City,81.0,49.0,28.0,87.0,D
+2021-10-24,Brentford,Leicester City,14.0,60.0,5.0,21.0,L
+2021-11-07,Leeds United,Leicester City,197.0,50.0,94.0,43.0,D
+2021-11-28,Leicester City,Watford,63.0,30.0,24.0,10.0,W
+2021-12-01,Southampton,Leicester City,45.0,60.0,24.0,13.0,D
+2021-12-05,Aston Villa,Leicester City,218.0,47.0,80.0,24.0,W
+2021-12-12,Leicester City,Newcastle United,38.0,463.0,85.0,185.0,W
+2022-01-23,Leicester City,Brighton and Hove Albion,54.0,71.0,36.0,38.0,D
+2022-02-20,Wolverhampton Wanderers,Leicester City,2.0,101.0,0.0,36.0,W
+2022-03-01,Burnley,Leicester City,3.0,34.0,0.0,21.0,L
+2022-03-05,Leicester City,Leeds United,49.0,509.0,23.0,202.0,W
+2022-03-20,Leicester City,Brentford,72.0,28.0,32.0,0.0,W
+2022-04-10,Leicester City,Crystal Palace,53.0,100.0,18.0,36.0,W
+2022-04-17,Newcastle United,Leicester City,392.0,122.0,207.0,43.0,W
+2022-04-20,Everton,Leicester City,63.0,48.0,28.0,34.0,D
+2022-04-23,Leicester City,Aston Villa,75.0,106.0,46.0,95.0,D
+2022-05-08,Leicester City,Everton,83.0,120.0,101.0,62.0,L
+2022-05-11,Leicester City,Norwich City,56.0,81.0,65.0,132.0,W
+2022-05-15,Watford,Leicester City,59.0,71.0,24.0,19.0,L
+2022-05-22,Leicester City,Southampton,42.0,240.0,39.0,73.0,W
+2021-08-14,Burnley,Brighton and Hove Albion,11.0,116.0,4.0,63.0,L
+2021-08-21,Brighton and Hove Albion,Watford,105.0,65.0,42.0,18.0,W
+2021-08-28,Brighton and Hove Albion,Everton,120.0,83.0,71.0,78.0,L
+2021-09-11,Brentford,Brighton and Hove Albion,19.0,99.0,1.0,23.0,L
+2021-09-27,Crystal Palace,Brighton and Hove Albion,52.0,131.0,31.0,56.0,D
+2021-10-16,Norwich City,Brighton and Hove Albion,73.0,47.0,23.0,23.0,D
+2021-11-06,Brighton and Hove Albion,Newcastle United,49.0,441.0,30.0,342.0,D
+2021-11-20,Aston Villa,Brighton and Hove Albion,243.0,43.0,117.0,19.0,W
+2021-11-27,Brighton and Hove Albion,Leeds United,44.0,152.0,13.0,70.0,D
+2021-12-04,Southampton,Brighton and Hove Albion,91.0,87.0,65.0,49.0,D
+2021-12-15,Brighton and Hove Albion,Wolverhampton Wanderers,41.0,0.0,36.0,0.0,L
+2021-12-26,Brighton and Hove Albion,Brentford,60.0,14.0,16.0,6.0,W
+2022-01-02,Everton,Brighton and Hove Albion,93.0,130.0,27.0,40.0,L
+2022-01-14,Brighton and Hove Albion,Crystal Palace,75.0,60.0,44.0,30.0,D
+2022-02-12,Watford,Brighton and Hove Albion,33.0,80.0,24.0,31.0,L
+2022-02-19,Brighton and Hove Albion,Burnley,53.0,2.0,43.0,3.0,L
+2022-02-26,Brighton and Hove Albion,Aston Villa,37.0,83.0,43.0,63.0,L
+2022-03-05,Newcastle United,Brighton and Hove Albion,442.0,46.0,376.0,17.0,W
+2022-04-02,Brighton and Hove Albion,Norwich City,56.0,60.0,36.0,57.0,D
+2022-04-24,Brighton and Hove Albion,Southampton,60.0,84.0,17.0,91.0,D
+2022-04-30,Wolverhampton Wanderers,Brighton and Hove Albion,1.0,54.0,0.0,30.0,L
+2022-05-15,Leeds United,Brighton and Hove Albion,247.0,67.0,395.0,40.0,D
+2021-09-11,Watford,Wolverhampton Wanderers,50.0,1.0,13.0,0.0,L
+2021-09-18,Wolverhampton Wanderers,Brentford,0.0,23.0,0.0,1.0,L
+2021-09-26,Southampton,Wolverhampton Wanderers,67.0,2.0,46.0,0.0,L
+2021-10-02,Wolverhampton Wanderers,Newcastle United,1.0,234.0,0.0,364.0,W
+2021-10-16,Aston Villa,Wolverhampton Wanderers,123.0,0.0,56.0,0.0,L
+2021-10-23,Leeds United,Wolverhampton Wanderers,179.0,1.0,165.0,0.0,D
+2021-11-01,Wolverhampton Wanderers,Everton,1.0,33.0,0.0,33.0,W
+2021-11-06,Crystal Palace,Wolverhampton Wanderers,103.0,0.0,19.0,0.0,W
+2021-11-27,Norwich City,Wolverhampton Wanderers,112.0,1.0,39.0,0.0,D
+2021-12-01,Wolverhampton Wanderers,Burnley,1.0,7.0,0.0,3.0,D
+2022-01-15,Wolverhampton Wanderers,Southampton,0.0,88.0,0.0,53.0,W
+2022-01-22,Brentford,Wolverhampton Wanderers,22.0,1.0,16.0,1.0,L
+2022-03-05,Wolverhampton Wanderers,Crystal Palace,2.0,102.0,0.0,31.0,L
+2022-03-10,Wolverhampton Wanderers,Watford,1.0,33.0,0.0,5.0,W
+2022-03-13,Everton,Wolverhampton Wanderers,106.0,1.0,95.0,0.0,L
+2022-03-18,Wolverhampton Wanderers,Leeds United,3.0,262.0,0.0,159.0,L
+2022-04-02,Wolverhampton Wanderers,Aston Villa,0.0,124.0,0.0,41.0,W
+2022-04-08,Newcastle United,Wolverhampton Wanderers,399.0,2.0,276.0,0.0,W
+2022-04-24,Burnley,Wolverhampton Wanderers,21.0,1.0,9.0,1.0,W
+2022-05-15,Wolverhampton Wanderers,Norwich City,2.0,63.0,0.0,52.0,D
+2021-08-21,Aston Villa,Newcastle United,353.0,254.0,321.0,296.0,W
+2021-08-28,Newcastle United,Southampton,310.0,119.0,513.0,59.0,D
+2021-09-17,Newcastle United,Leeds United,249.0,163.0,474.0,380.0,D
+2021-09-25,Watford,Newcastle United,29.0,232.0,8.0,337.0,D
+2021-10-23,Crystal Palace,Newcastle United,54.0,426.0,21.0,424.0,D
+2021-11-20,Newcastle United,Brentford,441.0,16.0,396.0,5.0,D
+2021-11-30,Newcastle United,Norwich City,394.0,131.0,504.0,46.0,D
+2021-12-04,Newcastle United,Burnley,436.0,6.0,205.0,1.0,W
+2022-01-15,Newcastle United,Watford,383.0,42.0,322.0,28.0,D
+2022-01-22,Leeds United,Newcastle United,218.0,304.0,199.0,491.0,L
+2022-02-08,Newcastle United,Everton,537.0,202.0,265.0,66.0,W
+2022-02-13,Newcastle United,Aston Villa,588.0,193.0,236.0,146.0,W
+2022-02-26,Brentford,Newcastle United,36.0,480.0,4.0,226.0,L
+2022-03-10,Southampton,Newcastle United,65.0,456.0,20.0,307.0,L
+2022-03-17,Everton,Newcastle United,80.0,414.0,123.0,311.0,W
+2022-04-20,Newcastle United,Crystal Palace,571.0,174.0,271.0,106.0,W
+2022-04-23,Norwich City,Newcastle United,73.0,532.0,36.0,306.0,L
+2022-05-22,Burnley,Newcastle United,14.0,487.0,18.0,375.0,L
+2021-08-21,Crystal Palace,Brentford,88.0,30.0,51.0,5.0,D
+2021-11-20,Burnley,Crystal Palace,10.0,62.0,1.0,13.0,D
+2021-11-27,Crystal Palace,Aston Villa,69.0,185.0,12.0,82.0,L
+2021-11-30,Leeds United,Crystal Palace,223.0,31.0,291.0,45.0,W
+2021-12-12,Crystal Palace,Everton,45.0,75.0,19.0,20.0,W
+2021-12-15,Crystal Palace,Southampton,120.0,51.0,36.0,55.0,D
+2021-12-28,Crystal Palace,Norwich City,161.0,181.0,409.0,685.0,W
+2022-02-09,Norwich City,Crystal Palace,84.0,85.0,73.0,35.0,D
+2022-02-12,Brentford,Crystal Palace,36.0,78.0,12.0,49.0,D
+2022-02-23,Watford,Crystal Palace,38.0,58.0,11.0,21.0,L
+2022-02-26,Crystal Palace,Burnley,96.0,20.0,22.0,4.0,D
+2022-04-25,Crystal Palace,Leeds United,40.0,263.0,28.0,251.0,D
+2022-04-30,Southampton,Crystal Palace,107.0,73.0,18.0,23.0,L
+2022-05-07,Crystal Palace,Watford,98.0,30.0,23.0,28.0,W
+2022-05-15,Aston Villa,Crystal Palace,213.0,100.0,64.0,24.0,D
+2022-05-19,Everton,Crystal Palace,73.0,67.0,89.0,52.0,W
+2021-08-28,Aston Villa,Brentford,389.0,28.0,208.0,5.0,D
+2021-10-30,Burnley,Brentford,10.0,25.0,1.0,4.0,W
+2021-11-06,Brentford,Norwich City,22.0,89.0,4.0,97.0,L
+2021-11-28,Brentford,Everton,21.0,51.0,1.0,31.0,W
+2021-12-05,Leeds United,Brentford,194.0,18.0,120.0,9.0,D
+2021-12-10,Brentford,Watford,20.0,27.0,4.0,15.0,W
+2022-01-02,Brentford,Aston Villa,50.0,231.0,2.0,75.0,W
+2022-01-11,Southampton,Brentford,118.0,35.0,85.0,6.0,W
+2022-03-05,Norwich City,Brentford,86.0,17.0,48.0,6.0,L
+2022-03-12,Brentford,Burnley,34.0,4.0,6.0,2.0,W
+2022-04-16,Watford,Brentford,37.0,12.0,48.0,3.0,L
+2022-05-07,Brentford,Southampton,19.0,73.0,5.0,38.0,W
+2022-05-15,Everton,Brentford,78.0,24.0,63.0,2.0,L
+2022-05-22,Brentford,Leeds United,22.0,385.0,2.0,561.0,L
+2021-08-14,Watford,Aston Villa,116.0,507.0,39.0,248.0,W
+2021-09-18,Aston Villa,Everton,183.0,129.0,69.0,24.0,W
+2021-11-05,Southampton,Aston Villa,93.0,130.0,32.0,219.0,W
+2021-12-14,Norwich City,Aston Villa,119.0,151.0,109.0,110.0,L
+2022-01-22,Everton,Aston Villa,158.0,395.0,122.0,107.0,L
+2022-02-09,Aston Villa,Leeds United,197.0,317.0,65.0,225.0,D
+2022-02-19,Aston Villa,Watford,83.0,21.0,75.0,11.0,L
+2022-03-05,Aston Villa,Southampton,101.0,188.0,51.0,105.0,W
+2022-03-10,Leeds United,Aston Villa,190.0,165.0,114.0,41.0,L
+2022-04-30,Aston Villa,Norwich City,129.0,58.0,53.0,42.0,W
+2022-05-07,Burnley,Aston Villa,6.0,142.0,1.0,78.0,L
+2022-05-19,Aston Villa,Burnley,206.0,9.0,131.0,1.0,D
+2021-08-14,Everton,Southampton,139.0,181.0,153.0,177.0,W
+2021-10-16,Southampton,Leeds United,74.0,344.0,46.0,168.0,W
+2021-10-23,Southampton,Burnley,54.0,9.0,31.0,0.0,D
+2021-10-30,Watford,Southampton,45.0,39.0,17.0,50.0,L
+2021-11-20,Norwich City,Southampton,147.0,54.0,41.0,25.0,W
+2022-02-19,Southampton,Everton,73.0,95.0,41.0,24.0,W
+2022-02-25,Southampton,Norwich City,60.0,74.0,26.0,31.0,W
+2022-03-13,Southampton,Watford,72.0,43.0,51.0,84.0,L
+2022-04-02,Leeds United,Southampton,228.0,52.0,108.0,14.0,D
+2022-04-21,Burnley,Southampton,10.0,152.0,9.0,18.0,W
+2021-08-21,Leeds United,Everton,431.0,82.0,212.0,56.0,D
+2021-09-13,Everton,Burnley,50.0,11.0,40.0,1.0,W
+2021-09-25,Everton,Norwich City,97.0,64.0,70.0,54.0,W
+2021-10-23,Everton,Watford,88.0,34.0,42.0,23.0,L
+2022-01-15,Norwich City,Everton,104.0,141.0,151.0,146.0,W
+2022-02-12,Everton,Leeds United,91.0,297.0,113.0,194.0,W
+2022-04-06,Burnley,Everton,6.0,78.0,2.0,140.0,W
+2022-05-11,Watford,Everton,32.0,164.0,80.0,73.0,D
+2021-08-29,Burnley,Leeds United,11.0,377.0,5.0,161.0,D
+2021-10-02,Leeds United,Watford,201.0,35.0,111.0,11.0,W
+2021-10-31,Norwich City,Leeds United,103.0,235.0,64.0,126.0,L
+2022-01-02,Leeds United,Burnley,302.0,7.0,151.0,1.0,W
+2022-03-13,Leeds United,Norwich City,328.0,71.0,700.0,49.0,W
+2022-04-09,Watford,Leeds United,49.0,169.0,30.0,170.0,L
+2021-10-02,Burnley,Norwich City,8.0,60.0,0.0,37.0,D
+2022-02-05,Burnley,Watford,6.0,31.0,1.0,19.0,D
+2022-04-10,Norwich City,Burnley,75.0,13.0,91.0,3.0,W
+2022-04-30,Watford,Burnley,35.0,9.0,25.0,1.0,L
+2021-09-18,Norwich City,Watford,84.0,25.0,68.0,12.0,L
+2022-01-21,Watford,Norwich City,43.0,66.0,14.0,47.0,L
